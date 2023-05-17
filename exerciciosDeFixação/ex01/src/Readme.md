@@ -1,0 +1,1 @@
+# Programa para calcular área, perímetro e diagonal de um retângulo.

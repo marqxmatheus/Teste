@@ -1,0 +1,1 @@
+# Programa para calcular o salário líquido de um funcionário e um aumento baseado em uma taxa.
